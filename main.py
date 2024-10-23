@@ -3,7 +3,7 @@ import datetime
 import validators
 from nextcord.ext import commands
 
-TOKEN = "MTI5ODI5Nzk5MDM1NTc0Njg2Ng.GYNv3Y.Nro2JMABXHLADqzJSpOhgGcqYxj-INpPXURw5k"
+TOKEN = ""
 GUILD_ID = 1297978563370156134  
 
 intents = nextcord.Intents.default()
